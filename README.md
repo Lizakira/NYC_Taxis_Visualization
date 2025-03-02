@@ -30,7 +30,7 @@ Ce projet est une application interactive de visualisation développée pour ill
    http://localhost:8000
    ```
 
-5. **Naviguez vers la page `page_viz.html`**  
+5. **Naviguez vers la page `pages/page_viz.html`**  
    Cliquez sur le fichier `page_viz.html` ou entrez son chemin dans votre navigateur. Vous êtes maintenant dans l'application !
 
 ---
